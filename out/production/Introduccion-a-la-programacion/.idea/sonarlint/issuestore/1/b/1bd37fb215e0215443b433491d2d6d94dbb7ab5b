@@ -1,0 +1,22 @@
+
+e
+java:S2583
+"CChange this condition so that it does not always evaluate to "true"(£è…¹ùÿÿÿÿ8«»²•“1
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(¬ÆØıÿÿÿÿ8›»²•“1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿¢×›ıÿÿÿÿ8®»²•“1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(Û´Şµ8¯»²•“1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„ÀÄ¢úÿÿÿÿ8¯»²•“1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ‘Æ÷ùÿÿÿÿ8¯»²•“1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—ˆ…œ8¯»²•“1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Äã·±8°»²•“1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾ı ûÿÿÿÿ8°»²•“1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(Äã·±8±»²•“1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(¥ĞÙš8±»²•“1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(‹ø¶½üÿÿÿÿ8²»²•“1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(œ‘¤¥øÿÿÿÿ8²»²•“1
+T	java:S106:"9Replace this use of System.out or System.err by a logger.(•ş?8³»²•“1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ôÆ° üÿÿÿÿ8´»²•“1
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(°Ãì8´»²•“1
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(«™©8µ»²•“1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(è´ÿÿÿÿÿ8¸÷´•“1
